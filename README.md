@@ -2,4 +2,4 @@
 
 Simple Maven Project
 
-Download from AWS Lambda
+Download from AWS Lambda with updates
